@@ -1,12 +1,11 @@
-##ReadMe File for this Shell in C
+# Custom Shell in C :
 =======================================================
 
+This shell uses the POSIX architechture and syscalls for it's functioning.
 
-## Instructions to excecute:
+## Execution:
 
-> - run the following command in terminal:
-    ``` gcc -w myShell.c ```
+Run the following command in terminal:  
+``` gcc -w myShell.c ```
 
-Coded by :
-
-** Vivek Kaushal ** 
+For more information, contact [me](http://vivekkaushal.com).
