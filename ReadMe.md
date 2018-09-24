@@ -8,4 +8,4 @@ This shell uses the POSIX architechture and syscalls for it's functioning.
 Run the following command in terminal:  
 ``` gcc -w myShell.c ```
 
-For more information, contact [me](http://vivekkaushal.com).
+For more information, contact [here](http://vivekkaushal.com).
